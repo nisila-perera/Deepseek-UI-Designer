@@ -23,7 +23,7 @@ A modern web application that generates UI designs using AI, built with React, E
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/nisila-perera/deepseek-ui-designer.git
+git clone https://github.com/nisila-perera/Deepseek-UI-Designer
 cd deepseek-ui-designer
 ```
 
