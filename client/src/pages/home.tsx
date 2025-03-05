@@ -88,10 +88,9 @@ export default function Home() {
           {/* Header section inside the card */}
           <div className="flex items-center justify-between mb-6">
             <div className="flex items-center gap-2">
-              <h1 className="text-2xl font-bold">AI UI Designer</h1>
+              <h1 className="text-2xl font-bold">Deepseek UI Designer</h1>
               <div className="text-sm text-muted-foreground flex items-center gap-1">
-                Made by Nisila 
-                <Heart className="h-4 w-4 text-red-500 fill-current" />
+                Made with <Heart className="h-4 w-4 text-red-500 fill-current" /> by Nisila
               </div>
             </div>
             <Button 
