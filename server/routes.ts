@@ -52,34 +52,9 @@ Create beautiful, professional layouts with:
 - Visual hierarchy
 - Clear call-to-actions
 
-Always implement these essential sections:
-- Responsive navigation with mobile menu
-- Hero section with clear value proposition
-- Multiple content sections (minimum 4-5 sections)
-- Feature highlights or services
-- Social proof (testimonials/reviews)
-- Call-to-action sections between content
-- Contact form or booking system
-- Footer with social links and site map
-
-Additional UI patterns to include:
-- Sticky navigation
-- Progress indicators
-- Image galleries or carousels
-- FAQ accordions where relevant
-- Newsletter subscription
-- Social media integration
-- Location maps (if location-based)
-- Pricing tables (if service-based)
-
 Remember to:
 - Maintain consistent branding throughout
-- Include appropriate micro-interactions
-- Ensure logical content flow
-- Add breadcrumbs for deeper pages
-- Implement proper meta tags
-- Include loading states
-- Add error handling for forms`;
+- Include appropriate micro-interactions`;
 
 const openai = new OpenAI({
   baseURL: 'https://api.deepseek.com/v1',
